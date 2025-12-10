@@ -24,8 +24,12 @@ I'm **Rose**, a passionate **Data Engineer in Training** currently transitioning
 * Open-source contributions focused on **data architecture or backend logic**.
 
 ### 💼 Skills & Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,mysql,figma,aws,postgres,dynamodb,js,vscode,py,html,css,bootstrap,github,wordpress" />
+  </a>
+</p>
 
-java,androidstudio,mysql,figma,aws,postgres,dynamodb,js,vscode,py,html,css,bootstrap,github,wordpress
 
 ### 📊 Top Projects
 
