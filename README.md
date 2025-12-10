@@ -26,7 +26,7 @@ I'm **Rose**, a passionate **Data Engineer in Training** currently transitioning
 ### 💼 Skills & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,mysql,figma,aws,postgres,dynamodb,js,vscode,py,html,css,bootstrap,github,wordpress" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,mysql,figma,aws,postgres,dynamodb,js,vscode,py,html,css,bootstrap,github,wordpress&perline=5" />
   </a>
 </p>
 
