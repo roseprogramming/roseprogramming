@@ -53,7 +53,7 @@ I'm **Rose**, a passionate **Data Engineer in Training** currently transitioning
 | 🔹 **Followers**: 2 | - Created a new branch for [eda_marqueting_bancario](https://github.com/roseprogramming/eda_marqueting_bancario) on Nov 10, 2025. |
 | 🔹 **Following**: 8 | - Updated [java-cpu-scheduling-algorithms](https://github.com/roseprogramming/java-cpu-scheduling-algorithms) on Oct 15, 2025. |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseprogramming&show_icons=true&theme=radical)
+![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=roseprogramming&show_icons=true&theme=radical)
 
 ### ✍️ Latest Blog Posts
 
