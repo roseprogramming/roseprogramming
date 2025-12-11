@@ -1,8 +1,11 @@
 ## 👋 Hi there! I’m @roseprogramming
 
-I'm **Rose**, a passionate **Data Engineer in Training** currently transitioning from the legal and fiscal world to the exciting field of data infrastructure. I love working with data and uncovering insights that can drive impactful decisions.
-
+I'm **Rose**, a passionate **Data Engineer in Training** currently transitioning from the legal and fiscal world to the exciting field of data infrastructure. I love working with data and uncovering insights that can drive impactful decisions. I'm currently honing my skills in SQL and Python, and I love solving complex problems with data. Let's connect!
 ---
+
+## About Me
+
+Based in **Alicante**, I'm on a journey to build a solid foundation in data engineering through my studies in **Higher Education Vocational Training (DAM)** and a **Master's in Data & Analytics**. I enjoy learning new technologies and applying them to real-world scenarios.
 
 ### 👀 I’m interested in...
 
@@ -33,6 +36,10 @@ I'm **Rose**, a passionate **Data Engineer in Training** currently transitioning
 
 ### 📊 Top Projects
 
+*[**ejercicios-programacion-dam](https://github.com/roseprogramming/ejercicios-programacion-dam):
+  * **Description**: Programming exercises for the Higher Education Vocational Training (DAM) course. Covers fundamentals, arrays, collections, I/O operations, object-oriented programming, and practical projects.
+  * **Stars:** 0 | **Language:** Java | **Issues:** 1
+
 * [**eda_marqueting_bancario**](https://github.com/roseprogramming/eda_marqueting_bancario)
     * **Description**: A complete Exploratory Data Analysis (EDA) on banking marketing campaign data, aiming to identify patterns and customer characteristics that drive success in term deposits.
     * **Stars**: 0 | **Forks**: 0 | **Language**: Jupyter Notebook
@@ -41,17 +48,14 @@ I'm **Rose**, a passionate **Data Engineer in Training** currently transitioning
     * **Description**: Java implementation of the main CPU process scheduling algorithms including FCFS, SJF, Round Robin, and SRTF, with performance metrics.
     * **Stars**: 0 | **Forks**: 0 | **Language**: Java
 
-* [**DAM**](https://github.com/roseprogramming/DAM)
-    * **Description**: A project showcasing my initial steps in programming and data analysis.
-    * **Stars**: 0 | **Forks**: 0 | **Language**: Java
 
 ### 📈 GitHub Stats
 
 | **General Stats** | **Recent Activity** |
 | :--- | :--- |
-| 🔹 **Public Repositories**: 3 | - Pushed to [eda_marqueting_bancario](https://github.com/roseprogramming/eda_marqueting_bancario) on Nov 10, 2025. |
+| 🔹 **Public Repositories**: 5 | - Pushed to [eda_marqueting_bancario](https://github.com/roseprogramming/eda_marqueting_bancario) on Nov 10, 2025. |
 | 🔹 **Followers**: 2 | - Created a new branch for [eda_marqueting_bancario](https://github.com/roseprogramming/eda_marqueting_bancario) on Nov 10, 2025. |
-| 🔹 **Following**: 8 | - Updated [java-cpu-scheduling-algorithms](https://github.com/roseprogramming/java-cpu-scheduling-algorithms) on Oct 15, 2025. |
+| 🔹 **Following**: 53 | - Updated [java-cpu-scheduling-algorithms](https://github.com/roseprogramming/java-cpu-scheduling-algorithms) on Oct 15, 2025. |
 
 
 ### ✍️ Latest Blog Posts
@@ -60,7 +64,8 @@ Currently, I have no blog posts. Stay tuned for updates!
 
 ### 📫 Connect with Me
 
-* **Email**: [AB.LANDETA.ABOGADA@HOTMAIL.COM]
+
+<a href="https://www.linkedin.com/in/andrea-bravo-landeta" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
 * **Location**: Based in **Alicante**, open to remote/hybrid opportunities in Madrid, Murcia, or Alicante.
 
 ### 😄 Pronouns:
